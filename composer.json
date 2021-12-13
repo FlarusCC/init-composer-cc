@@ -1,0 +1,41 @@
+{
+  "name": "flaruscc/init",
+  "description": "Flarus Creative Center. Russian Creative Center for Flarum.",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://flarus.cc/",
+  "keywords": ["flarum", "russian"],
+  "authors": [
+    {
+      "name": "Kitsune Solar",
+      "email": "kitsune.solar@gmail.com",
+      "homepage": "https://kitsune.solar/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/FlarusCC/init-composer-cc",
+    "issues": "https://github.com/FlarusCC/init-composer-cc/issues",
+    "docs": "https://github.com/FlarusCC/init-composer-cc/wiki",
+    "forum": "https://github.com/FlarusCC/init-composer-cc/discussions"
+  },
+  "funding": [
+    {
+      "type": "ko_fi",
+      "url": "https://ko-fi.com/FlarusCC"
+    },
+    {
+      "type": "liberapay",
+      "url": "https://liberapay.com/FlarusCC"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/FlarusCC"
+    }
+  ],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
